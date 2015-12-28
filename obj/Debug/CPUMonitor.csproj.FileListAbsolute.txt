@@ -1,0 +1,9 @@
+c:\users\joey\documents\visual studio 2015\Projects\CPUMonitor\bin\Debug\CPUMonitor.exe.config
+c:\users\joey\documents\visual studio 2015\Projects\CPUMonitor\obj\Debug\CPUMonitor.csprojResolveAssemblyReference.cache
+C:\Users\Joey\documents\visual studio 2015\Projects\CPUMonitor\bin\Debug\CPUMonitor.exe
+C:\Users\Joey\documents\visual studio 2015\Projects\CPUMonitor\bin\Debug\CPUMonitor.pdb
+C:\Users\Joey\documents\visual studio 2015\Projects\CPUMonitor\obj\Debug\CPUMonitor.exe
+C:\Users\Joey\documents\visual studio 2015\Projects\CPUMonitor\obj\Debug\CPUMonitor.pdb
+C:\Users\Joey\Documents\GitHub\System-Monitor-Lite\bin\Debug\CPUMonitor.exe.config
+C:\Users\Joey\Documents\GitHub\System-Monitor-Lite\obj\Debug\CPUMonitor.exe
+C:\Users\Joey\Documents\GitHub\System-Monitor-Lite\obj\Debug\CPUMonitor.pdb
